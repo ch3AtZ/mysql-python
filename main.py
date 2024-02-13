@@ -52,5 +52,6 @@ while True:
         exit()
     else:
         print("invalid input")
+        print("nigga what")
 
 
